@@ -8,6 +8,12 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
                 "label": "Learn",
                 "altText": "Learn more",
                 "url": "/",
@@ -17,12 +23,6 @@
                 "style": "secondary",
                 "elementId": "",
                 "type": "Button"
-            },
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
             },
             {
                 "type": "Link",
