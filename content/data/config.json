@@ -14,17 +14,6 @@
                 "altText": ""
             },
             {
-                "label": "Learn",
-                "altText": "Learn more",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Button"
-            },
-            {
                 "type": "Link",
                 "label": "Careers",
                 "url": "/careers",
@@ -41,6 +30,17 @@
                 "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog"
+            },
+            {
+                "label": "Learn",
+                "altText": "Learn more",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": "",
+                "type": "Button"
             }
         ],
         "secondaryLinks": [
